@@ -1,0 +1,30 @@
+.General{
+    background-color:blanchedalmond;
+} 
+
+.Encabezado {
+    background-color: rgb(255, 255, 255);
+    border-radius: 15%;
+    text-align: center;
+}
+
+.navegacion{
+    margin-left:28%;
+    word-spacing: 80px;
+}
+
+h1{
+    color: black;
+    font-size: 25px;
+}
+
+.misdatos {
+color: rgb(88, 85, 85);
+}
+
+.foto1{
+    margin-left:75%;
+    margin-right:90%; 
+    
+}
+
