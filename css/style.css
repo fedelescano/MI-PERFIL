@@ -1,42 +1,21 @@
-.General{
-    background-color:white;
-} 
-
 .Encabezado {
-    background-color:white;
+    background-color: white;
     border-radius: 15%;
     text-align: center;
-    border-style:inset;     
+    border-style: inset;
 }
 
-h1{
-    color: blue;
-    font-size: 25px;
-}
+.Encabezado h1 {color:blue;}
+.Encabezado p {color: rgb(95, 95, 95);}
 
-.navegacion{
-    margin-left:70%;
-    color: blue;
-   margin
-}
+.navegacion {margin-left: 70%; color: blue; margin: 70px; }
 
-
-.informacion {
-position: relative;
-margin: 240px auto;
-background: blue;
-}
+.Informacion h3 {color: blue;}
 
 .misdatos {
-background: rgb(87, 196, 240);
-margin: 10px;
-box-sizing: border-box;
-overflow: hidden;
-
+    background-color: aqua;
+    width: 25%;
+    font-style: italic;
+    
 }
-
-.fincontenido{
-    margin-top:10%;
-}
-
 
